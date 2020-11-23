@@ -211,6 +211,7 @@ audio:not([controls]) {
  */
 img {
   border-style: none;
+  width: 100%; /* 20201123: to avoid oversized image */
 }
 
 /**
@@ -4278,7 +4279,7 @@ cite {
 
 .post header img {
   width: 100%;
-  max-height: 500px;
+  /* max-height: 500px; */ /* to avoid image stretch */
   vertical-align: middle;
 }
 
