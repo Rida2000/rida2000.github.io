@@ -6,14 +6,32 @@ date: 2020-10-12 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, Blogging, Mountains]
 ---
-测试发布
-This is a testing post.
 
-![test](/assets/img/the-masses-of-shanghai-cover.jpg)
+距离上一次拍摄**上海群像**的主题已经过去了一年零八个月，是时候再拍一次了。
 
+这次选择了豫园旁边的**老西门**作为目的地，这里保留着老上海最原始的味道，这里人们的生活环境和方式能让你忘记自己身处一个国际大都市的中心地带。熟悉的弄堂、熟悉的街边小店、晾在头顶上的杯子，这里处处是人们生活的痕迹。
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+![2](/assets/img/the-masses-of-shanghai-2.jpg)
+![3](/assets/img/the-masses-of-shanghai-3.jpg)
+![6](/assets/img/the-masses-of-shanghai-6.jpg)
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+![1](/assets/img/the-masses-of-shanghai-1.jpg)
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+站在玩具店门口的老大爷。
+
+上前询问老大爷是否可以为他拍张照时，老大爷笑道：“哈哈，我一看就知道你们是干嘛的，我年轻的时候也玩摄影，背着三脚架相机全国到处跑。”
+
+![4](/assets/img/the-masses-of-shanghai-4.jpg)
+![5](/assets/img/the-masses-of-shanghai-5.jpg)
+
+在弄堂里碰到一个阿婆，她怕我们在弄堂里找不到路，便问我们要去哪，她给我们指了路之后，似乎并不知道现在有手机导航这种东西，不停回头看我们有没有跟上，我们才意识到她是想给我们带路，于是赶忙跟了上去。一路上阿婆问了我们很多问题，我们也对弄堂里的生活十分好奇，分别时，我拍下了阿婆离开的背影。
+
+> “这里是上海真正的根”阿婆说道
+
+![7](/assets/img/the-masses-of-shanghai-7.jpg)
+
+我的一位同学说她以前也是住在这样的弄堂里，我的照片让她回忆起了童年的生活。这让我第一次感受到了自己的作品有着共情的能力，也许这就是我未来的努力方向吧。
+
+![8](/assets/img/the-masses-of-shanghai-8.jpg)
+
+弄堂的生活看似如故，然而角落里已经悄然挂起了拆迁办的横幅。城市的市容固然重要，但是繁华背后这些最原始的味道，也值得我们品味。多么希望这里的景象能一直保留下去啊。
