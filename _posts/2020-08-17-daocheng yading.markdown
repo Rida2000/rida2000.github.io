@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "稻城亚丁 Trip to Yading, Daocheng"
+title2: "稻城亚丁<br/> Trip to Yading, Daocheng"
 img: daocheng-yading-cover.jpg # Add image post (optional)
 date: 2020-08-17 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
@@ -21,6 +22,7 @@ tag: [Sichuan, Travel, Drone, Blogging]
 ![5](/assets/img/daocheng-yading-5.jpg)
 
 这次出行租了一台 Mavic Air 2
+
 ![6](/assets/img/daocheng-yading-6.jpg)
 
 ![7](/assets/img/daocheng-yading-7.jpg)
