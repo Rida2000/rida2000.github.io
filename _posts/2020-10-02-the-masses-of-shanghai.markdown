@@ -6,7 +6,7 @@ img: the-masses-of-shanghai-cover.jpg
 date: 2020-10-12 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
 tag: [Shanghai, Streets, Blogging]
-author: [rida]
+authors: [rida]
 ---
 
 距离上一次拍摄**上海群像**的主题已经过去了一年零八个月，是时候再拍一次了。

@@ -8,7 +8,7 @@ layout: default
   <article class="post">
     <header>
       <div class="post_image">
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append : page.img}}" alt="{{ page.title }}">
+        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.img }}" alt="{{ page.title }}">
       </div>
       <div class="post_description">
         <p class="post_meta">{{ page.date | date: '%Y, %b %d' }}</p>
@@ -72,7 +72,7 @@ layout: default
             <a href="{{ post.url | prepend: site.baseurl }}"
               class="recent_item"
               style="background-image: url({{ '/assets/img/' | prepend: site.baseurl | append : post.img }})">
-                <span>{{ ' ' | prepend: post.title | append: post.subtitle }}</span>
+                <span>{{ '<br/>' | prepend: post.title | append: post.subtitle }}</span>
             </a>
           {% endif %}
         {% endfor %}
