@@ -6,6 +6,7 @@ img: daocheng-yading-cover.jpg
 date: 2020-08-17 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
 tag: [Sichuan, Travel, Drone, Blogging]
+author: [rida]
 ---
 
 2020年的暑假，和高中室友一起前往四川的稻城亚丁旅行。
