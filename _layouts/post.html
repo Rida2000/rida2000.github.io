@@ -12,7 +12,7 @@ layout: default
       </div>
       <div class="post_description">
         <p class="post_meta">{{ page.date | date: '%Y, %b %d' }}</p>
-        <h1 class="post_title">{{ page.title }}</h1>
+        <h1 class="post_title">{{ ' ' | prepend: page.title | append: page.subtitle }}</h1>
       </div>
     </header> <!-- End Header -->
 
@@ -68,11 +68,11 @@ layout: default
       <h2 class="recent_title">Recent post</h2>
       <div class="recent_list">
         {% for post in site.posts offset:0 limit:6 %}
-          {% if post.title2 %}
+          {% if post.title %}
             <a href="{{ post.url | prepend: site.baseurl }}"
               class="recent_item"
               style="background-image: url({{ '/assets/img/' | prepend: site.baseurl | append : post.img }})">
-                <span>{{ post.title2 }}</span>
+                <span>{{ ' ' | prepend: post.title | append: post.subtitle }}</span>
             </a>
           {% endif %}
         {% endfor %}
