@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "上海群像 第二弹 The Masses of Shanghai EP02"
-title2: "上海群像 第二弹<br/>The Masses of Shanghai EP02"
-img: the-masses-of-shanghai-cover.jpg # Add image post (optional)
+title: 上海群像 第二弹
+subtitle: The Masses of Shanghai EP02
+img: the-masses-of-shanghai-cover.jpg
 date: 2020-10-12 12:55:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
 tag: [Shanghai, Streets, Blogging]
 ---
 

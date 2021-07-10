@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "稻城亚丁 Trip to Yading, Daocheng"
-title2: "稻城亚丁<br/> Trip to Yading, Daocheng"
-img: daocheng-yading-cover.jpg # Add image post (optional)
+title: 稻城亚丁
+subtitle: Trip to Yading, Daocheng
+img: daocheng-yading-cover.jpg
 date: 2020-08-17 12:55:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
 tag: [Sichuan, Travel, Drone, Blogging]
 ---
 

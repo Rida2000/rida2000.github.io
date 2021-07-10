@@ -1,24 +1,25 @@
 ---
 layout: default
 ---
+
 {% include header.html %}
 
 <main class="post_content">
   <article class="post">
     <header>
       <div class="post_image">
-        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
+        <img src="{{ '/assets/img/' | prepend: site.baseurl | append : page.img}}" alt="{{ page.title }}">
       </div>
       <div class="post_description">
-        <p class="post_meta">{{page.date | date: '%Y, %b %d'}}</p>
-        <h1 class="post_title">{{page.title}}</h1>
+        <p class="post_meta">{{ page.date | date: '%Y, %b %d' }}</p>
+        <h1 class="post_title">{{ page.title }}</h1>
       </div>
     </header> <!-- End Header -->
 
     <div class="entry_content">
-      {{page.content | markdownify}}
-    </div>
-    
+      {{ page.content | markdownify }}
+    </div> <!-- End Content -->
+
     <div class="post_wrapper">
       <footer class="post_footer cf">
         <div class="post_share">
@@ -30,43 +31,37 @@ layout: default
         <div class="post_tag">
           <span>Tags:</span>
           {% for tag in page.tags %}
-          <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">{{ tag }}</a>
+            <a href="{{ '/tags#' | prepend: site.baseurl | append: tag }}" class="tag">{{ tag }}</a>
           {% endfor %}
         </div>
       </footer>
     </div>
   </article> <!-- End Section Post -->
 
-  <section class="author cf">
-    <div class="post_wrapper">
-      <div class="author_image">
-        <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{ site.author-pic }}{% endif %}" alt="Author face">
-      </div>
-      <div class="author_info">
-        <h2 class="author_title">{% if site.author-name %}{{site.author-name}}{% else %}Rida{% endif %}</h2>
-        <p class="author_subtitle">{% if site.about-author %}{{site.about-author}}{% else %}00' amateur photographer and videographer from Shanghai, China. Major in Industrial Design at Tongji University.{% endif %}</p>
-        <div class="author_social">
-          {% if site.email %}
-          <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:{{site.email}}">{{site.email}}</a></span>
-          {% else %}
-          <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:dwayne@example.com">dwayne@example.com</a></span>
-          {% endif %}
-          
-          {% if site.phone %}
-          <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:{{site.phone}}">{{site.phone}}</a></span>
-          {% else %}
-          <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+496-169-65-57">(496)-169-6557</a></span>
-          {% endif %}
+  {% for authorName in page.authors %}
+    {% for author in site.authors %}
+      {% if authorName == author.abbv %}
+        <section class="author cf">
+          <div class="post_wrapper">
+            <div class="author_image">
+              <img src="{{ author.pic | prepend: '/assets/img/' | prepend: site.baseurl }}" alt="Author face">
+            </div>
+            <div class="author_info">
+              <h2 class="author_title">{{ author.name }}</h2>
+              <p class="author_subtitle">{{ author.about }}</p>
+              <div class="author_social">
+                <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:{{ author.email }}">{{ author.email }}</a></span>
 
-          {% if site.website %}
-          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="{{site.website}}" target="_blank">{{site.website}}</a></span>
-          {% else %}
-          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="#" target="_blank">https://dwayne.example.com</a></span>
-          {% endif %}            
-        </div>
-      </div>
-    </div>
-  </section> <!-- End Section Author -->
+                <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:{{ author.phone }}">{{ author.phone }}</a></span>
+
+                <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="{{ author.website }}" target="_blank">{{ author.website }}</a></span>
+              </div>
+            </div>
+          </div>
+        </section>
+      {% endif %}
+    {% endfor %}
+  {% endfor %} <!-- End Section Author -->
 
   <section class="recent_box">
     <div class="post_wrapper">
@@ -76,7 +71,7 @@ layout: default
           {% if post.title2 %}
             <a href="{{ post.url | prepend: site.baseurl }}"
               class="recent_item"
-              style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
+              style="background-image: url({{ '/assets/img/' | prepend: site.baseurl | append : post.img }})">
                 <span>{{ post.title2 }}</span>
             </a>
           {% endif %}
@@ -84,9 +79,9 @@ layout: default
       </div>
     </div>
   </section> <!-- End Section Recent Box -->
-  
+
   {% include disqus.html %}
-  
+
 </main> <!-- End Section Post Content -->
 
 {% include footer.html %}

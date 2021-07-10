@@ -4538,18 +4538,44 @@ cite {
   text-decoration: underline;
 }
 
-.about_box {
+.back {
   position: absolute;
+  top:  0px;
+  left: 0px;
+}
+
+.about_box2 {
+  position: absolute;
+  left:  5%;
+  right: 5%;
+
+  top: 50%;
+  -webkit-transform: translate(0%, -50%);
+      -ms-transform: translate(0%, -50%);
+          transform: translate(0%, -50%);
+
+  display: flex;
+
+  justify-content: center;
+}
+
+.about_box {
+  /* position: absolute; */
   -webkit-border-radius: 0.5rem;
           border-radius: 0.5rem;
-  width: 600px;
-  max-width: 90%;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  /* width: 600px; */
+  max-width: 600px;
+  /* top: 50%;
+  left: 50%; */
+  /* -webkit-transform: translate(-50%, -50%); */
+      /* -ms-transform: translate(-50%, -50%); */
+          /* transform: translate(-50%, -50%); */
   overflow: auto;
+
+  flex: 1;
+
+  margin-left:  50px;
+  margin-right: 50px;
 }
 
 .about {
@@ -4557,10 +4583,12 @@ cite {
   width: 100%;
   height: 100vh;
   min-height: 700px;
-  background-image: url(../img/bg_about.jpg);
+  background-image: url("../img/bg_about.jpg");
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
+
+  display: flex;
 }
 
 .about .author {
