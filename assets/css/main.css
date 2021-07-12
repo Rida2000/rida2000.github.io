@@ -3849,7 +3849,8 @@ template {
 }
 
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Futura Bk Book", "Source Han Serif CN", sans-serif;
+  font-weight: lighter;
   -webkit-font-smoothing: antialiased;
   background-color: #262626;
   margin: 0;
