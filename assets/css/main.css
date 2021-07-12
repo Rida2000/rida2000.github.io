@@ -4784,6 +4784,7 @@ cite {
     padding: 7rem 0;
   }
   #banner .content .title {
+    font-weight: lighter;
     font-size: 2.5rem;
     margin: 0 0 1rem 0;
   }
