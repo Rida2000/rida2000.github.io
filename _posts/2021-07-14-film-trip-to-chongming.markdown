@@ -1,13 +1,34 @@
 ---
 layout: post
-title: 上海群像 第二弹
-subtitle: The Masses of Shanghai EP02
+title: 崇明胶片之旅
+subtitle: Film Trip to Chongming Island
 img: the-masses-of-shanghai-cover.jpg
-date: 2020-10-12 12:55:00 +0300
+date: 2021-07-14 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
-tag: [Shanghai, Streets, Blogging]
+tag: [Shanghai, Chongming, Film]
 authors: [rida]
 ---
+
+Equipments:
+
+- Nikon F3
+- Nikkor 35-70/3.5-5.6
+- Nikkor 50/1.4
+- Bronica SQA
+- Bronica 90/2.8
+- Sony a6300
+- Sony 16-70/4
+- Sigma 30/1.4
+- Sony A7
+- Sigma 35/1.4
+
+Film used:
+
+- Kodak Vision3 5207/250D
+- Fujifilm Provia100F/RDPIII
+- Fujifilm Velvia100/RVP
+- Konica
+- Kodak Portra160 nc
 
 距离上一次拍摄**上海群像**的主题已经过去了一年零八个月，是时候再拍一次了。
 
@@ -28,7 +49,7 @@ authors: [rida]
 
 在弄堂里碰到一个阿婆，她怕我们在弄堂里找不到路，便问我们要去哪，她给我们指了路之后，似乎并不知道现在有手机导航这种东西，不停回头看我们有没有跟上，我们才意识到她是想给我们带路，于是赶忙跟了上去。一路上阿婆问了我们很多问题，我们也对弄堂里的生活十分好奇，分别时，我拍下了阿婆离开的背影。
 
-> “这里是上海真正的根” 阿婆说道。
+> “这里是上海真正的根”阿婆说道
 
 ![7](/assets/img/the-masses-of-shanghai-7.jpg)
 
