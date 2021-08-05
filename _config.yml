@@ -1,4 +1,4 @@
-logo: # add logo name
+logo: "<img src='/assets/img/Rida_W.png' style='height: 48px; width: 48px;'/>" # add logo name
 title: "Raditech Photography"
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -20,7 +20,7 @@ authors:
     name: "Rida"
     pic:  "face.jpg"
     about: >
-      00' amateur photographer and videographer from Shanghai, China.
+      00' amateur photographer and videographer from Shanghai, China.<br/>
       Major in Industrial Design at Tongji University.
     email: "rida2000@126.com"
     phone: "(496)-169-6557"

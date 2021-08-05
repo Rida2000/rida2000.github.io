@@ -34,11 +34,18 @@ Film used:
 
 这次选择了豫园旁边的**老西门**作为目的地，这里保留着老上海最原始的味道，这里人们的生活环境和方式能让你忘记自己身处一个国际大都市的中心地带。熟悉的弄堂、熟悉的街边小店、晾在头顶上的被子，这里处处是人们生活的痕迹。
 
-![2](/assets/img/the-masses-of-shanghai-2.jpg)
-![3](/assets/img/the-masses-of-shanghai-3.jpg)
-![6](/assets/img/the-masses-of-shanghai-6.jpg)
+<div style="height: 100px;"></div>
 
-![1](/assets/img/the-masses-of-shanghai-1.jpg)
+![2](/assets/img/film-trip-to-chongming-rida-12.jpg)
+<p style="text-align: center;">
+Kodak Vison3 5207/250D
+</p>
+
+![3](/assets/img/film-trip-to-chongming-drew-1.jpg)
+
+![6](/assets/img/film-trip-to-chongming-rida-13.jpg)
+
+![1](/assets/img/film-trip-to-chongming-rida-1.jpg)
 
 站在玩具店门口的老大爷。
 

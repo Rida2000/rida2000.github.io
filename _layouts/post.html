@@ -12,7 +12,15 @@ layout: default
       </div>
       <div class="post_description">
         <p class="post_meta">{{ page.date | date: '%Y, %b %d' }}</p>
-        <h1 class="post_title">{{ ' ' | prepend: page.title | append: page.subtitle }}</h1>
+        <h1 class="post_title">
+          <!-- {{ ' ' | prepend: page.title | append: page.subtitle }} -->
+          <span class="post_title_cn">
+            {{ page.title }}
+          </span>
+          <span class="post_title_en">
+            {{ ' ' | append: page.subtitle}}
+          </span>
+        </h1>
       </div>
     </header> <!-- End Header -->
 
@@ -80,7 +88,7 @@ layout: default
     </div>
   </section> <!-- End Section Recent Box -->
 
-  {% include disqus.html %}
+  <!-- {% include disqus.html %} -->
 
 </main> <!-- End Section Post Content -->
 

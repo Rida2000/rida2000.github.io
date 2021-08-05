@@ -211,6 +211,7 @@ audio:not([controls]) {
  */
 img {
   border-style: none;
+  margin: auto;
   width: 100%; /* 20201123: to avoid oversized image */
 }
 
@@ -4258,10 +4259,15 @@ cite {
 }
 
 .post_wrapper, .entry_content {
+  width: 90%;
   max-width: 900px;
   padding: 0 1.85rem;
   margin: 0 auto;
 }
+
+/* .entry_content p img {
+  text-align: center;
+} */
 
 .post_content {
   width: 960px;
@@ -4389,7 +4395,7 @@ cite {
 
 .author .author_info .author_title {
   font-size: 1.5rem;
-  font-weight:lighter
+  font-weight: lighter;
   margin-top: 0;
   color: #262626;
 }
@@ -4567,7 +4573,6 @@ cite {
   /* position: absolute; */
   -webkit-border-radius: 0.5rem;
           border-radius: 0.5rem;
-  /* width: 600px; */
   max-width: 600px;
   /* top: 50%;
   left: 50%; */
@@ -4599,6 +4604,7 @@ cite {
   -webkit-border-radius: 0.5rem;
           border-radius: 0.5rem;
   margin-bottom: 1rem;
+  height: 640px;
 }
 
 .about .author .author_image {
@@ -4858,7 +4864,7 @@ cite {
     font-size: 0.8rem;
   }
   .post header .post_title {
-    font-family: "Avenir Heavy", "Source Han Serif CN", sans-serif;
+    font-family: "Futura Medium", "Source Han Serif CN", sans-serif;
     /* font-style: "Light"; */
     font-size: 1.6rem;
   }
@@ -4949,4 +4955,16 @@ cite {
     padding: 0.8rem;
     font-size: 1.2rem;
   }
+}
+
+h1, .post_title {
+  font-weight: normal;
+}
+
+.post_title_cn {
+  font-weight: bold;
+}
+
+.font_title_en {
+  font-weight: normal;
 }
