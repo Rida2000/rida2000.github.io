@@ -24,7 +24,7 @@ Equipments:
 
 Film used:
 
-- Kodak Vision3 5207/250D
+- Kodak Vision3 250D/5207
 - Kodak Ektarchrome iso64/EPR64
 - Fujifilm Provia100F/RDPIII
 - Fujifilm Velvia100/RVP
@@ -48,7 +48,7 @@ Film used:
 
 ![1](/assets/img/film-trip-to-chongming-rida-12.jpg)
 <p style="text-align: center;">
-Kodak Vison3 5207/250D
+Kodak Vison3 250D/5207
 </p>
 
 # Konica infrared 750nm
@@ -92,13 +92,30 @@ Konica infrared 750nm
 Konica infrared 750nm
 </p>
 
+![16](/assets/img/Konica-infrared-750nm.jpg)
+<p style="text-align: center;">
+理想的状况会把绿色拍成白色<br/>
+lomography.com
+</p>
+
 <div style="height: 50px;"></div>
 
 # Portra 160 NC
 
-先简单介绍一下，Portra 160 NC 是如今大名鼎鼎的炮塔160胶片的前身，其中NC代表的便是Natural Color，它强调色彩的自然，对比没有那么强烈。十几年前柯达把主打艳丽色彩的Kodak Portra VC (Vivid Color) 和自然色彩的Kodak Portra NC 两者和并后，便形成如今的Portra160。
+先简单介绍一下，Portra 160 NC 是如今大名鼎鼎的炮塔160胶片的前身，其中NC代表的便是Natural Color，它强调色彩的自然，对比没有那么强烈。十几年前柯达把主打艳丽色彩的Kodak Portra VC (Vivid Color) 和自然色彩的Kodak Portra NC (Natural Color) 两者和并后，便形成如今的Portra160。
 
-购买这卷胶卷是因为我喜欢的一个新加坡摄影师曾一直用160NC进行创作，下面是他的ig个人主页以及他的一些作品：
+购买这卷胶卷是因为我喜欢的一个新加坡摄影师曾一直用160NC进行创作，下面是他的ins个人主页以及他的一些作品：[_nguan_@instagram](https://www.instagram.com/_nguan_/)
+
+![17](/assets/img/nguan_ins.png)
+
+<div style="height: 50px;"></div>
+
+![18](/assets/img/nguan_ins_pic.jpg)
+<p style="text-align: center;">
+使用Portra 160nc拍摄的一些作品
+</p>
+
+<div style="height: 50px;"></div>
 
 放了这么多人家的作品，若是再放我的样片就会一下子感觉Low了不少。更何况，我的胶片还过期翻车了，**过期会导致胶片原本细腻的颗粒被放大，宽容度大幅降低，且产生不同程度上的偏色与图层不均匀**。从各个方面都被拉开了差距，真是无比惭愧呢。
 
@@ -164,3 +181,6 @@ Kodak Portra160 nc
 <p style="text-align: center;">
 Kodak Portra160 nc
 </p>
+
+# Kodak Vision3 250D/5207
+
