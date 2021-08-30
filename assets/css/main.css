@@ -4435,6 +4435,7 @@ cite {
 
 .recent_box .recent_title {
   font-size: 1.5rem;
+  font-weight: lighter
   text-align: center;
   margin: 0 0 1.75rem;
 }
