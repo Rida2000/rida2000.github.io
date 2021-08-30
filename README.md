@@ -1,4 +1,4 @@
-# Bef is a responsive jekyll theme
+# Raditech Studio Homepage
 
 Bef - Blog Enjoy Freedom is a responsive jekyll theme which created to be simple and freedom.
 
