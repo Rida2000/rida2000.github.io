@@ -1,6 +1,6 @@
 # Raditech Studio Homepage
 
-&copy; Raditech Studio {{ site.time | date: '%Y' }} All rights reserved.
+&copy; Raditech Studio 2021 All rights reserved.
 
 This is a page owned by Rida
 
