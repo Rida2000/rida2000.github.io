@@ -5,7 +5,7 @@ subtitle: Film Trip to Chongming Island
 img: film-trip-to-chongming-cover.jpg
 date: 2021-07-14 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
-tag: [Shanghai, Chongming, Film]
+tag: [Shanghai, Film, Chongming]
 authors: [drew,rida]
 ---
 
