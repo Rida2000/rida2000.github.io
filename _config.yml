@@ -23,8 +23,7 @@ authors:
       00'<br/>
       Amateur photographer & videographer<br/>
       Base in Shanghai, China<br/>
-      Major in Industrial Design<br/>
-      Tongji University<br/>
+      Major in Industrial Design at Tongji University
     email: "rida2000@126.com"
     phone: "(021)-7355608"
     website: "https://rida2000.github.io"
@@ -39,14 +38,14 @@ authors:
     phone: "(021)-114514"
     website: "https://www.instagram.com/drewluvpalanuial/"
   -
-    abbv: "lzp"
-    name: "littleping"
-    pic:  "face.jpg"
-    about: >
-      test
-    email: "lzp@shu.edu.cn"
-    phone: "(021)-114514"
-    website: "https://steamcommunity.com/profiles/76561198422205047/"
+    # abbv: "lzp"
+    # name: "littleping"
+    # pic:  "face.jpg"
+    # about: >
+    #   test
+    # email: "lzp@shu.edu.cn"
+    # phone: "(021)-114514"
+    # website: "https://steamcommunity.com/profiles/76561198422205047/"
 
 # Author settings
 # author-pic: face.jpg # your photo
