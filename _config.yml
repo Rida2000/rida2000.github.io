@@ -33,7 +33,8 @@ authors:
     name: "Drew"
     pic:  "drew.jpg"
     about: >
-      Drew is a Chinese product designer and photographer living and working in Shanghai.
+      Drew is a Chinese product designer and photographer<br/>
+      living and working in Shanghai.
     email: "aca1224@foxmail.com"
     phone: "(021)-114514"
     website: "https://www.instagram.com/drewluvpalanuial/"
