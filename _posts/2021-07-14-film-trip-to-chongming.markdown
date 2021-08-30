@@ -62,6 +62,11 @@ Film used:
 
 接下来我们来到了这次旅行的主要目的地之一：**堡镇码头**
 
+![29](/assets/img/film-trip-to-chongming-drew-33.jpg)
+<p style="text-align: center;">
+网红丁坝
+</p>
+
 这个地方最近也算一个网红景点了，好像是因为电影《悲伤逆流成河》在这里取了景，导致堡镇码头一号、二号丁坝直接一跃成为小红书崇明人气最旺的打卡点。这次我们也跟一波风吧。
 
 说实话，这个地方作为一个“网红景点”来说真的是很棒了，丁坝延伸到江里，远处有码头、芦苇、堤岸，氛围感一绝，关键是**人并不多**，下午的时候大概有两三波人，到了接近日落的时候人会逐渐多起来，但到不了会影响体验的程度，当然我们是工作日去的，不知道周末的情况如何。
@@ -108,11 +113,6 @@ Fujifilm Velvia100/RVP
 </p>
 
 ![28](/assets/img/film-trip-to-chongming-drew-32.jpg)
-<p style="text-align: center;">
-Fujifilm Velvia100/RVP
-</p>
-
-![29](/assets/img/film-trip-to-chongming-drew-33.jpg)
 <p style="text-align: center;">
 Fujifilm Velvia100/RVP
 </p>
