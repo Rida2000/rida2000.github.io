@@ -409,7 +409,12 @@ Sony a6300
 
 至于我的尼康F3，毕竟是台老相机了，起雾更是严重，严重到只要是个镜面的平面全都是雾……除了前后镜组，反光板、磨砂屏（不知道是不是这个名字），取景器因为被我拆过，密封条也不好使了，以至于取景器的前后镜组和里面的反光镜也全是雾……我直接大无语……
 
-![47](/assets/img/film-trip-to-chongming-rida-4.jpg)
+![47](/assets/img/film-trip-to-chongming-rida-14.jpg)
+<p style="text-align: center;">
+你别说 这雾起的还挺有氛围感
+</p>
+
+![48](/assets/img/film-trip-to-chongming-rida-15.jpg)
 <p style="text-align: center;">
 Sony a6300
 </p>
