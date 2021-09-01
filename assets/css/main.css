@@ -3950,7 +3950,7 @@ cite {
       -ms-flex-align: center;
           align-items: center;
   background-color: #1c1c1c;
-  /* z-index: 1; */
+  z-index: 999;
 }
 
 .main_header .logo {
