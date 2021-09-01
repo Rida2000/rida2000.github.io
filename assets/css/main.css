@@ -3934,6 +3934,8 @@ cite {
 }
 
 .main_header {
+  position: sticky;
+  top: 0;
   padding: 2rem;
   display: -webkit-box;
   display: -webkit-flex;
@@ -3948,7 +3950,7 @@ cite {
       -ms-flex-align: center;
           align-items: center;
   background-color: #1c1c1c;
-  z-index: 1;
+  /* z-index: 1; */
 }
 
 .main_header .logo {
