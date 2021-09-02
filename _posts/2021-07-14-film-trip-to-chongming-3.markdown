@@ -13,7 +13,7 @@ authors: [drew,rida]
 
 先简单介绍一下，Portra 160 NC 是如今大名鼎鼎的炮塔160胶片的前身，其中NC代表的便是Natural Color，它强调色彩的自然，对比没有那么强烈。十几年前柯达把主打艳丽色彩的Kodak Portra VC (Vivid Color) 和自然色彩的Kodak Portra NC (Natural Color) 两者和并后，便形成如今的Portra160。
 
-购买这卷胶卷是因为我喜欢的一个新加坡摄影师曾一直用160NC进行创作，下面是他的ins个人主页以及他的一些作品：[_nguan_@instagram](https://www.instagram.com/_nguan_/)
+购买这卷胶卷是因为我喜欢的一个新加坡摄影师曾一直用160NC进行创作，下面是他的ins个人主页以及他的一些作品：[nguan@instagram](https://www.instagram.com/_nguan_/)
 
 ![17](/assets/img/nguan_ins.png)
 
@@ -47,6 +47,8 @@ Kodak Portra160 nc
 Kodak Portra160 nc
 </p>
 
+<div style="height: 50px;"></div>
+
 ![9](/assets/img/film-trip-to-chongming-drew-7.jpg)
 <p style="text-align: center;">
 回收封面
@@ -61,12 +63,18 @@ Kodak Portra160 nc
 后面的卷可能比较靠里的原因，翻车没那么严重
 </p>
 
+<div style="height: 50px;"></div>
+
 所以负片真正的宽容度应该是怎样的？这是一些没翻车的照片：
+
+<div style="height: 50px;"></div>
 
 ![43](/assets/img/film-trip-to-chongming-rida-12.jpg)
 <p style="text-align: center;">
 Kodak Vision3 250D/5207
 </p>
+
+<div style="height: 50px;"></div>
 
 ![44](/assets/img/film-trip-to-chongming-rida-13.jpg)
 <p style="text-align: center;">
@@ -88,6 +96,8 @@ Kodak Vision3 是柯达的电影胶卷，也是目前市面上唯一的电影胶
 <p style="text-align: center;">
 说实话 电影卷不调色的话感觉表现力还不如数码 Sony a6300
 </p>
+
+<div style="height: 50px;"></div>
 
 ![46](/assets/img/film-trip-to-chongming-rida-4.jpg)
 <p style="text-align: center;">
@@ -116,6 +126,8 @@ Sony a6300
 
 没想到的是第二天的翻车还在等着我们
 
+<div style="height: 50px;"></div>
+
 # Sunrise
 
 住的套房太舒服了，床又软被子又厚，于是……根本没有发现空调一直开的19℃……
@@ -126,39 +138,54 @@ Sony a6300
 
 至于我的尼康F3，毕竟是台老相机了，起雾更是严重，严重到只要是个镜面的平面全都是雾……除了前后镜组，反光板、磨砂屏（不知道是不是这个名字），取景器因为被我拆过，密封条也不好使了，以至于取景器的前后镜组和里面的反光镜也全是雾……我直接大无语……
 
+<div style="height: 50px;"></div>
+
 ![47](/assets/img/film-trip-to-chongming-rida-14.jpg)
 <p style="text-align: center;">
 你别说 这雾起的还挺有氛围感
 </p>
+
+<div style="height: 50px;"></div>
 
 ![48](/assets/img/film-trip-to-chongming-rida-15.jpg)
 <p style="text-align: center;">
 The best shot
 </p>
 
+<div style="height: 50px;"></div>
+
 Bronica SQA也差不多一样的情况，唯一的幸存者，竟然是A7和适马的35/1.4 Art，这时候是不是该说**适马牛X**？
 
 所以，不管怎样日出是错过了，drew在日出之后拍了几张长曝，与此同时其他器材都在在太阳底下晒着……
 
+<div style="height: 50px;"></div>
+
 ![49](/assets/img/film-trip-to-chongming-drew-2.jpg)
 <p style="text-align: center;">
-
+B&W yyds
 </p>
 
+<div style="height: 50px;"></div>
 ![50](/assets/img/film-trip-to-chongming-drew-3.jpg)
 <p style="text-align: center;">
-
+Square yyds
 </p>
+
+<div style="height: 50px;"></div>
 
 ![51](/assets/img/film-trip-to-chongming-drew-4.jpg)
 <p style="text-align: center;">
-
+21:9 yyds
 </p>
+
+<div style="height: 50px;"></div>
 
 至此，这次崇明之行就算结束了！
 
 虽然有些遗憾，但正好给下一次的造访提供了契机
 
-see u next time, Chongming!
+see u next time, Chongming
 
 stay tuned.
+
+![51](/assets/img/film-trip-to-chongming-rida-16.jpg)

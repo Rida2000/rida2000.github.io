@@ -71,50 +71,69 @@ Film used:
 网红丁坝
 </p>
 
+<div style="height: 50px;"></div>
+
 这个地方最近也算一个网红景点了，好像是因为电影《悲伤逆流成河》在这里取了景，导致堡镇码头一号、二号丁坝直接一跃成为小红书崇明人气最旺的打卡点。这次我们也跟一波风吧。
 
 说实话，这个地方作为一个“网红景点”来说真的是很棒了，丁坝延伸到江里，远处有码头、芦苇、堤岸，氛围感一绝，关键是**人并不多**，下午的时候大概有两三波人，到了接近日落的时候人会逐渐多起来，但到不了会影响体验的程度，当然我们是工作日去的，不知道周末的情况如何。
 
+<div style="height: 50px;"></div>
 
 ![20](/assets/img/film-trip-to-chongming-rida-6.jpg)
 <p style="text-align: center;">
 堡镇码头
 </p>
 
+<div style="height: 50px;"></div>
+
 ![21](/assets/img/film-trip-to-chongming-rida-7.jpg)
 <p style="text-align: center;">
 延伸到江里的桥（并不允许上去
 </p>
+
+<div style="height: 50px;"></div>
 
 ![22](/assets/img/film-trip-to-chongming-rida-8.jpg)
 <p style="text-align: center;">
 我的朋(si)友(ji) drew
 </p>
 
+<div style="height: 50px;"></div>
+
 ![23](/assets/img/film-trip-to-chongming-rida-9.jpg)
 <p style="text-align: center;">
 以前如果要上岛的话就从这里坐轮渡
 </p>
+
+<div style="height: 50px;"></div>
 
 ![24](/assets/img/film-trip-to-chongming-drew-34.jpg)
 <p style="text-align: center;">
 轮渡离去的背影
 </p>
 
+<div style="height: 50px;"></div>
+
 ![25](/assets/img/film-trip-to-chongming-drew-29.jpg)
 <p style="text-align: center;">
 Fujifilm Velvia100/RVP
 </p>
+
+<div style="height: 50px;"></div>
 
 ![26](/assets/img/film-trip-to-chongming-drew-30.jpg)
 <p style="text-align: center;">
 Fujifilm Velvia100/RVP
 </p>
 
+<div style="height: 50px;"></div>
+
 ![27](/assets/img/film-trip-to-chongming-drew-31.jpg)
 <p style="text-align: center;">
 Fujifilm Velvia100/RVP
 </p>
+
+<div style="height: 50px;"></div>
 
 ![28](/assets/img/film-trip-to-chongming-drew-32.jpg)
 <p style="text-align: center;">
@@ -125,27 +144,39 @@ Fujifilm Velvia100/RVP
 
 因为担心日落的时候光线变化过大，所以我现在这里拍了一些长曝：
 
+<div style="height: 50px;"></div>
+
 ![34](/assets/img/film-trip-to-chongming-rida-1.jpg)
 <p style="text-align: center;">
 f/11 390s ISO100
 </p>
+
+<div style="height: 50px;"></div>
 
 ![35](/assets/img/film-trip-to-chongming-rida-2.jpg)
 <p style="text-align: center;">
 f/11 62s ISO100
 </p>
 
+<div style="height: 50px;"></div>
+
 在拍摄某一张的时候发生了诡异的现象，彩噪爆炸，而且颗粒非常大，相机参数也挺正常，唯一可能的原因就是有一个路人从镜头前经过，但是还是无法解释这种诡异的彩噪。（如果我拿出去跟别人说这是过期胶卷拍出来的，也许可信度还挺高？
+
+<div style="height: 50px;"></div>
 
 ![36](/assets/img/film-trip-to-chongming-rida-3.jpg)
 <p style="text-align: center;">
 离大谱 f/4 425s ISO400
 </p>
 
+<div style="height: 50px;"></div>
+
 ![37](/assets/img/film-trip-to-chongming-rida-3(1).jpg)
 <p style="text-align: center;">
 局部放大 巨大颗粒彩噪
 </p>
+
+<div style="height: 50px;"></div>
 
 [Keep reading vol.02](../2021-07-14-film-trip-to-chongming-2)
 

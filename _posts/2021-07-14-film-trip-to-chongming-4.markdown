@@ -25,21 +25,21 @@ authors: [drew,rida]
 
 ![10](/assets/img/film-trip-to-chongming-drew-8.jpg)
 <p style="text-align: center;">
-Kodak Portra160 nc
+马厩
 </p>
 
 <div style="height: 50px;"></div>
 
 ![11](/assets/img/film-trip-to-chongming-drew-9.jpg)
 <p style="text-align: center;">
-Kodak Portra160 nc
+跑马场一隅
 </p>
 
 <div style="height: 50px;"></div>
 
 ![12](/assets/img/film-trip-to-chongming-drew-10.jpg)
 <p style="text-align: center;">
-Kodak Portra160 nc
+小小沙皮狗乐园一隅
 </p>
 
 <div style="height: 50px;"></div>
@@ -57,3 +57,4 @@ Kodak Portra160 nc
 
 **这样的生活我不懂，但我大受震撼**
 
+The End.
