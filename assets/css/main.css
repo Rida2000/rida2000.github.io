@@ -4461,11 +4461,15 @@ cite {
 }
 
 .recent_box .recent_list .recent_item span {
+  font-family: "Futura", sans-serif;
+  font-weight: normal;
+  text-shadow: 3px 3px 15px rgba(0, 0, 0, 0.8);
   position: absolute;
   bottom: 10%;
   left: 2.5%;
   color: white;
   font-size: 1rem;
+  margin-right: 0.4rem;
 }
 
 .recent_box .recent_list .recent_item_post_1 {
