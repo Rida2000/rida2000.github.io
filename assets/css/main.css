@@ -3924,6 +3924,21 @@ cite {
   text-decoration: underline;
 }
 
+.button_next {
+  color: #525C65;
+  font-size: 1.1rem;
+  text-decoration: none;
+  font-style: italic;
+  font-weight: normal;
+  display: inline-block;
+  margin: 0.7rem 1rem;
+  padding-left: 0.5rem;
+}
+
+.button_next:hover {
+  text-decoration: underline;
+}
+
 .cf::before, .cf::after {
   content: "";
   display: table;
@@ -4562,6 +4577,12 @@ cite {
   top:  0px;
   left: 0px;
 }
+
+/* .next {
+  position: absolute;
+  top:  0px;
+  left: 0px;
+} */
 
 .about_box2 {
   position: absolute;

@@ -189,3 +189,13 @@ see u next time, Chongming
 stay tuned.
 
 ![51](/assets/img/film-trip-to-chongming-rida-16.jpg)
+
+<div style="height: 50px;"></div>
+
+<div>
+<a href="../film-trip-to-chongming-4" class="button_back back"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Keep reading extra</a>
+</div>
+
+<div>
+<a href="../film-trip-to-chongming-4" class="button_next next"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Keep reading extra</a>
+</div>

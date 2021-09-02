@@ -178,6 +178,10 @@ f/11 62s ISO100
 
 <div style="height: 50px;"></div>
 
-[Keep reading vol.02](../2021-07-14-film-trip-to-chongming-2)
+<div>
+<a href="../film-trip-to-chongming-2" class="button_back back"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Keep reading vol.02</a>
+</div>
 
-<a href="{{ '/' | ../2021-07-14-film-trip-to-chongming-2 }}" class="button_back back"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Keep reading vol.02</a>
+<div>
+<a href="../film-trip-to-chongming-2" class="button_next next"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Keep reading vol.02</a>
+</div>
