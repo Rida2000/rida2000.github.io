@@ -4044,22 +4044,24 @@ cite {
   font-size: 0.9rem;
   text-transform: uppercase;
   margin: 0 0 1rem 0;
+  text-shadow: 3px 3px 15px rgba(0, 0, 0, 0.4);
 }
 
 .chapters .chapter_inner .chapter_number::after {
   content: "";
   display: block;
   width: 40px;
-  margin-top: 0.3rem;
-  border-top: 3px solid #3c5392;
+  /* margin-top: 0.3rem; */
+  border-top: 6px solid #4f6bb6;
 }
 
 .chapters .chapter_inner .chapter_title {
-  font-family: "Source Han Sans";
+  font-family: "Futura","Source Han Sans";
   font-weight: bold;
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   font-weight: 400;
-  margin: 0 0 0.5rem 0;
+  margin: 0 0 0.1rem 0;
+  text-shadow: 3px 3px 15px rgba(0, 0, 0, 0.4);
 }
 
 .newsletter {
