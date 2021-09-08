@@ -102,6 +102,11 @@ favourite shot
 <div style="height: 100px;"></div>
 ![24](/assets/img/20190211-the-masses-of-shanghai-ep01/24.jpg)
 <div style="height: 50px;"></div>
+
+<div>
+<a href="../the-masses-of-shanghai-ep02" class="button_back back"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Keep reading EP02</a>
+</div>
+
 <div>
 <a href="../the-masses-of-shanghai-ep02" class="button_next next"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Keep reading EP02</a>
 </div>

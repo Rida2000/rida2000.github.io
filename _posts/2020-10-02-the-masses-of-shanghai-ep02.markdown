@@ -37,3 +37,13 @@ authors: [rida]
 ![8](/assets/img/20201002-the-masses-of-shanghai-ep02/the-masses-of-shanghai-8.jpg)
 
 弄堂的生活看似如故，然而角落里已经悄然挂起了拆迁办的横幅。城市的市容固然重要，但是繁华背后这些最原始的味道，也值得我们品味。多么希望这里的景象能一直保留下去啊。
+
+<div style="height: 50px;"></div>
+
+<div>
+<a href="../the-masses-of-shanghai-ep03" class="button_back back"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Keep reading EP03</a>
+</div>
+
+<div>
+<a href="../the-masses-of-shanghai-ep03" class="button_next next"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Keep reading EP03</a>
+</div>
