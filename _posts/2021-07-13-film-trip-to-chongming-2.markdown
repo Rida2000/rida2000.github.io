@@ -2,7 +2,7 @@
 layout: post
 title: 崇明胶片之旅
 subtitle: Film Trip to Chongming Island vol.02
-img: film-trip-to-chongming-cover-2.jpg
+img: 20210713-film-trip-to-chongming-cover-2.jpg
 date: 2021-07-13 12:56:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
 tag: [Shanghai, Film, Chongming]
@@ -34,49 +34,49 @@ authors: [drew,rida]
 
 <div style="height: 50px;"></div>
 
-![2](/assets/img/film-trip-to-chongming-drew-14.jpg)
+![2](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-14.jpg)
 <p style="text-align: center;">
 假装是 一名士兵在海边洗衣服
 </p>
 
 <div style="height: 50px;"></div>
 
-![3](/assets/img/film-trip-to-chongming-drew-15.jpg)
+![3](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-15.jpg)
 <p style="text-align: center;">
 假装是 右边有一艘驱逐舰
 </p>
 
 <div style="height: 50px;"></div>
 
-![4](/assets/img/film-trip-to-chongming-drew-16.jpg)
+![4](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-16.jpg)
 <p style="text-align: center;">
 假装是 几名士兵在等待救援
 </p>
 
 <div style="height: 50px;"></div>
 
-![5](/assets/img/film-trip-to-chongming-drew-17.jpg)
+![5](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-17.jpg)
 <p style="text-align: center;">
 假装是 几名士兵在等待救援
 </p>
 
 <div style="height: 50px;"></div>
 
-![5_1](/assets/img/film-trip-to-chongming-drew-17(1).jpg)
+![5_1](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-17(1).jpg)
 <p style="text-align: center;">
 上图的局部放大 解析力竟然还不错？
 </p>
 
 <div style="height: 50px;"></div>
 
-![6](/assets/img/film-trip-to-chongming-drew-18.jpg)
+![6](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-18.jpg)
 <p style="text-align: center;">
 假装是 兵工厂
 </p>
 
 <div style="height: 50px;"></div>
 
-![16](/assets/img/Konica-infrared-750nm.jpg)
+![16](/assets/img/20210713-film-trip-to-chongming/Konica-infrared-750nm.jpg)
 <p style="text-align: center;">
 例图：理想的状况会把绿色拍成白色<br/>
 lomography.com
@@ -92,21 +92,21 @@ lomography.com
 
 <div style="height: 50px;"></div>
 
-![30](/assets/img/film-trip-to-chongming-drew-19.jpg)
+![30](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-19.jpg)
 <p style="text-align: center;">
 Fujifilm Provia100F/RDPIII
 </p>
 
 <div style="height: 50px;"></div>
 
-![31](/assets/img/film-trip-to-chongming-drew-20.jpg)
+![31](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-20.jpg)
 <p style="text-align: center;">
 Fujifilm Provia100F/RDPIII
 </p>
 
 <div style="height: 50px;"></div>
 
-![32](/assets/img/film-trip-to-chongming-drew-28.jpg)
+![32](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-28.jpg)
 <p style="text-align: center;">
 Fujifilm Provia100F/RDPIII
 </p>
@@ -119,33 +119,33 @@ Fujifilm Provia100F/RDPIII
 
 <div style="height: 50px;"></div>
 
-![33](/assets/img/film-trip-to-chongming-drew-23.jpg)
+![33](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-23.jpg)
 <p style="text-align: center;">
 Fujifilm Provia100F/RDPIII
 </p>
 
 <div style="height: 50px;"></div>
 
-![38](/assets/img/film-trip-to-chongming-drew-24.jpg)
+![38](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-24.jpg)
 <p style="text-align: center;">
 Fujifilm Provia100F/RDPIII
 </p>
 
 <div style="height: 50px;"></div>
 
-<!-- ![39](/assets/img/film-trip-to-chongming-drew-25.jpg)
+<!-- ![39](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-25.jpg)
 <p style="text-align: center;">
 Fujifilm Provia100F/RDPIII
 </p> -->
 
-![40](/assets/img/film-trip-to-chongming-drew-26.jpg)
+![40](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-26.jpg)
 <p style="text-align: center;">
 Fujifilm Provia100F/RDPIII
 </p>
 
 <div style="height: 50px;"></div>
 
-![41](/assets/img/film-trip-to-chongming-drew-27.jpg)
+![41](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-27.jpg)
 <p style="text-align: center;">
 Fujifilm Provia100F/RDPIII
 </p>

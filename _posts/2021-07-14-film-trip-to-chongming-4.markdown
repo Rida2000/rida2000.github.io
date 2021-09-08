@@ -2,7 +2,7 @@
 layout: post
 title: 崇明胶片之旅
 subtitle: Film Trip to Chongming Island extra
-img: film-trip-to-chongming-cover-4.jpg
+img: 20210714-film-trip-to-chongming-cover-4.jpg
 date: 2021-07-14 12:56:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
 tag: [Shanghai, Film, Chongming]
@@ -23,21 +23,21 @@ authors: [drew,rida]
 
 <div style="height: 50px;"></div>
 
-![10](/assets/img/film-trip-to-chongming-drew-8.jpg)
+![10](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-8.jpg)
 <p style="text-align: center;">
 马厩
 </p>
 
 <div style="height: 50px;"></div>
 
-![11](/assets/img/film-trip-to-chongming-drew-9.jpg)
+![11](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-9.jpg)
 <p style="text-align: center;">
 跑马场一隅
 </p>
 
 <div style="height: 50px;"></div>
 
-![12](/assets/img/film-trip-to-chongming-drew-10.jpg)
+![12](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-10.jpg)
 <p style="text-align: center;">
 小小沙皮狗乐园一隅
 </p>

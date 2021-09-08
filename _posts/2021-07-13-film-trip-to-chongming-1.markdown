@@ -2,7 +2,7 @@
 layout: post
 title: 崇明胶片之旅
 subtitle: Film Trip to Chongming Island vol.01
-img: film-trip-to-chongming-cover-1.jpg
+img: 20210713-film-trip-to-chongming-cover-1.jpg
 date: 2021-07-13 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
 tag: [Shanghai, Film, Chongming]
@@ -51,7 +51,7 @@ Film used:
 
 好吧，其实也没有那么糟糕，只是对不起这第一的排名罢了。点完菜5分钟菜就上齐了，不论是看上去还是吃上去明显感觉是用微波炉热的，味道不能说很差，但是绝对算不上好吃，低于平均饭店水准，可见大众点评的排名都是怎么来的了。
 
-![19](/assets/img/film-trip-to-chongming-pic-1.png)
+![19](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-pic-1.png)
 <p style="text-align: center;">
 辣鸡，千万别去
 </p>
@@ -66,7 +66,7 @@ Film used:
 
 接下来我们来到了这次旅行的主要目的地之一：**堡镇码头**
 
-![29](/assets/img/film-trip-to-chongming-drew-33.jpg)
+![29](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-33.jpg)
 <p style="text-align: center;">
 网红丁坝
 </p>
@@ -79,63 +79,63 @@ Film used:
 
 <div style="height: 50px;"></div>
 
-![20](/assets/img/film-trip-to-chongming-rida-6.jpg)
+![20](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-rida-6.jpg)
 <p style="text-align: center;">
 堡镇码头
 </p>
 
 <div style="height: 50px;"></div>
 
-![21](/assets/img/film-trip-to-chongming-rida-7.jpg)
+![21](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-rida-7.jpg)
 <p style="text-align: center;">
 延伸到江里的桥（并不允许上去
 </p>
 
 <div style="height: 50px;"></div>
 
-![22](/assets/img/film-trip-to-chongming-rida-8.jpg)
+![22](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-rida-8.jpg)
 <p style="text-align: center;">
 我的朋(si)友(ji) drew
 </p>
 
 <div style="height: 50px;"></div>
 
-![23](/assets/img/film-trip-to-chongming-rida-9.jpg)
+![23](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-rida-9.jpg)
 <p style="text-align: center;">
 以前如果要上岛的话就从这里坐轮渡
 </p>
 
 <div style="height: 50px;"></div>
 
-![24](/assets/img/film-trip-to-chongming-drew-34.jpg)
+![24](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-34.jpg)
 <p style="text-align: center;">
 轮渡离去的背影
 </p>
 
 <div style="height: 50px;"></div>
 
-![25](/assets/img/film-trip-to-chongming-drew-29.jpg)
+![25](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-29.jpg)
 <p style="text-align: center;">
 Fujifilm Velvia100/RVP
 </p>
 
 <div style="height: 50px;"></div>
 
-![26](/assets/img/film-trip-to-chongming-drew-30.jpg)
+![26](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-30.jpg)
 <p style="text-align: center;">
 Fujifilm Velvia100/RVP
 </p>
 
 <div style="height: 50px;"></div>
 
-![27](/assets/img/film-trip-to-chongming-drew-31.jpg)
+![27](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-31.jpg)
 <p style="text-align: center;">
 Fujifilm Velvia100/RVP
 </p>
 
 <div style="height: 50px;"></div>
 
-![28](/assets/img/film-trip-to-chongming-drew-32.jpg)
+![28](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-32.jpg)
 <p style="text-align: center;">
 Fujifilm Velvia100/RVP
 </p>
@@ -146,14 +146,14 @@ Fujifilm Velvia100/RVP
 
 <div style="height: 50px;"></div>
 
-![34](/assets/img/film-trip-to-chongming-rida-1.jpg)
+![34](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-rida-1.jpg)
 <p style="text-align: center;">
 f/11 390s ISO100
 </p>
 
 <div style="height: 50px;"></div>
 
-![35](/assets/img/film-trip-to-chongming-rida-2.jpg)
+![35](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-rida-2.jpg)
 <p style="text-align: center;">
 f/11 62s ISO100
 </p>
@@ -164,14 +164,14 @@ f/11 62s ISO100
 
 <div style="height: 50px;"></div>
 
-![36](/assets/img/film-trip-to-chongming-rida-3.jpg)
+![36](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-rida-3.jpg)
 <p style="text-align: center;">
 离大谱 f/4 425s ISO400
 </p>
 
 <div style="height: 50px;"></div>
 
-![37](/assets/img/film-trip-to-chongming-rida-3(1).jpg)
+![37](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-rida-3(1).jpg)
 <p style="text-align: center;">
 局部放大 巨大颗粒彩噪
 </p>

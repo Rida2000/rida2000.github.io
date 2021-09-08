@@ -2,7 +2,7 @@
 layout: post
 title: 崇明胶片之旅
 subtitle: Film Trip to Chongming Island vol.03
-img: film-trip-to-chongming-cover-3.jpg
+img: 20210714-film-trip-to-chongming-cover-3.jpg
 date: 2021-07-14 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
 tag: [Shanghai, Film, Chongming]
@@ -15,11 +15,11 @@ authors: [drew,rida]
 
 购买这卷胶卷是因为我喜欢的一个新加坡摄影师曾一直用160NC进行创作，下面是他的ins个人主页以及他的一些作品：[nguan@instagram](https://www.instagram.com/_nguan_/)
 
-![17](/assets/img/nguan_ins.png)
+![17](/assets/img/20210713-film-trip-to-chongming/nguan_ins.png)
 
 <div style="height: 50px;"></div>
 
-![18](/assets/img/nguan_ins_pic.jpg)
+![18](/assets/img/20210713-film-trip-to-chongming/nguan_ins_pic.jpg)
 <p style="text-align: center;">
 使用Portra 160nc拍摄的一些作品
 </p>
@@ -28,28 +28,28 @@ authors: [drew,rida]
 
 放了这么多人家的作品，若是再放我的样片就会一下子感觉Low了不少。更何况，我的胶片还过期翻车了，**过期会导致胶片原本细腻的颗粒被放大，宽容度大幅降低，且产生不同程度上的偏色与图层不均匀**。从各个方面都被拉开了差距，真是无比惭愧呢。
 
-![13](/assets/img/film-trip-to-chongming-drew-11.jpg)
+![13](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-11.jpg)
 <p style="text-align: center;">
 Kodak Portra160 nc
 </p>
 
 <div style="height: 50px;"></div>
 
-![14](/assets/img/film-trip-to-chongming-drew-12.jpg)
+![14](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-12.jpg)
 <p style="text-align: center;">
 Kodak Portra160 nc
 </p>
 
 <div style="height: 50px;"></div>
 
-![15](/assets/img/film-trip-to-chongming-drew-13.jpg)
+![15](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-13.jpg)
 <p style="text-align: center;">
 Kodak Portra160 nc
 </p>
 
 <div style="height: 50px;"></div>
 
-![9](/assets/img/film-trip-to-chongming-drew-7.jpg)
+![9](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-7.jpg)
 <p style="text-align: center;">
 回收封面
 </p>
@@ -58,7 +58,7 @@ Kodak Portra160 nc
 
 后来从冲洗店的老板那里得知，根据他的经验，过期15年的Portra并不会出现这样的效果，这卷胶卷可能是经历了x光或者其他更糟糕的事情，所以看来不是我们的锅了（就是说又被某宝店家坑了？
 
-![8](/assets/img/film-trip-to-chongming-drew-6.jpg)
+![8](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-6.jpg)
 <p style="text-align: center;">
 后面的卷可能比较靠里的原因，翻车没那么严重
 </p>
@@ -69,14 +69,14 @@ Kodak Portra160 nc
 
 <div style="height: 50px;"></div>
 
-![43](/assets/img/film-trip-to-chongming-rida-12.jpg)
+![43](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-rida-12.jpg)
 <p style="text-align: center;">
 Kodak Vision3 250D/5207
 </p>
 
 <div style="height: 50px;"></div>
 
-![44](/assets/img/film-trip-to-chongming-rida-13.jpg)
+![44](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-rida-13.jpg)
 <p style="text-align: center;">
 Kodak Vision3 250D/5207
 </p>
@@ -87,19 +87,19 @@ Kodak Vision3 250D/5207
 
 Kodak Vision3 是柯达的电影胶卷，也是目前市面上唯一的电影胶卷。电影卷的特点基本可以概括为：**高素质、高宽容度、高后期难度**。前两者比较好理解，高后期难度则是因为不同于普通彩负的C-41冲洗流程，电影卷使用特殊的ECN-2冲洗流程，提供的冲洗店相对较少，而且比C-41要来的贵。另外就是电影卷对调色的要求比较高，如果不会调的话，出来的效果会很一般（就像我的照片一样）。
 
-![42](/assets/img/film-trip-to-chongming-rida-11.jpg)
+![42](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-rida-11.jpg)
 <p style="text-align: center;">
 也有说法说250D在阴天的光线条件下表现力不行
 </p>
 
-![45](/assets/img/film-trip-to-chongming-rida-5.jpg)
+![45](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-rida-5.jpg)
 <p style="text-align: center;">
 说实话 电影卷不调色的话感觉表现力还不如数码 Sony a6300
 </p>
 
 <div style="height: 50px;"></div>
 
-![46](/assets/img/film-trip-to-chongming-rida-4.jpg)
+![46](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-rida-4.jpg)
 <p style="text-align: center;">
 Sony a6300
 </p>
@@ -140,14 +140,14 @@ Sony a6300
 
 <div style="height: 50px;"></div>
 
-![47](/assets/img/film-trip-to-chongming-rida-14.jpg)
+![47](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-rida-14.jpg)
 <p style="text-align: center;">
 你别说 这雾起的还挺有氛围感
 </p>
 
 <div style="height: 50px;"></div>
 
-![48](/assets/img/film-trip-to-chongming-rida-15.jpg)
+![48](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-rida-15.jpg)
 <p style="text-align: center;">
 The best shot
 </p>
@@ -160,20 +160,20 @@ Bronica SQA也差不多一样的情况，唯一的幸存者，竟然是A7和适�
 
 <div style="height: 50px;"></div>
 
-![49](/assets/img/film-trip-to-chongming-drew-2.jpg)
+![49](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-2.jpg)
 <p style="text-align: center;">
 B&W yyds
 </p>
 
 <div style="height: 50px;"></div>
-![50](/assets/img/film-trip-to-chongming-drew-3.jpg)
+![50](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-3.jpg)
 <p style="text-align: center;">
 Square yyds
 </p>
 
 <div style="height: 50px;"></div>
 
-![51](/assets/img/film-trip-to-chongming-drew-4.jpg)
+![51](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-drew-4.jpg)
 <p style="text-align: center;">
 21:9 yyds
 </p>
@@ -188,7 +188,7 @@ see u next time, Chongming
 
 stay tuned.
 
-![51](/assets/img/film-trip-to-chongming-rida-16.jpg)
+![51](/assets/img/20210713-film-trip-to-chongming/film-trip-to-chongming-rida-16.jpg)
 
 <div style="height: 50px;"></div>
 
