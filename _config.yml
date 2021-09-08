@@ -10,8 +10,8 @@ url: "https://rida2000.github.io" # the base hostname & protocol for your site, 
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: "Raditech Photography" # add banner title
-banner-desc: "Beautiful things don't ask for attention." # add banner description
+banner-title: "Raditech Studio" # add banner title
+banner-desc: "Photography, Videography and Industrial Design" # add banner description
 
 # Authors settings
 authors:
