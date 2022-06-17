@@ -10,6 +10,9 @@ Main writer: drew and Rida
 
 Website template-Bef designed by ARTEM SHELUDKO
 
+Original Repository:
+Bef is a responsive jekyll theme https://artemsheludko.github.io/bef/
+
 ## License
 
 GNU General Public License v3.0
