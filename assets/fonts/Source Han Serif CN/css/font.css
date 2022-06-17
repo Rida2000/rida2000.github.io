@@ -1,19 +1,26 @@
 @font-face {
   font-family: 'Source Han Serif CN';
   src: local('Source Han Serif CN Regular'),
-       url('../fonts/SourceHanSerifCN-Regular-1.otf') format('opentype');
+        url('../fonts/SourceHanSerifCN-regular-1.woff2') format('woff2'),
+        url('../fonts/SourceHanSerifCN-regular-1.woff') format('woff'),   
+        url('../fonts/SourceHanSerifCN-Regular-1.otf') format('opentype');
+       
 }
 
 @font-face {
   font-family: 'Source Han Serif CN Regular';
   src: local('Source Han Serif CN Regular'),
-       url('../fonts/SourceHanSerifCN-Regular-1.otf') format('opentype');
+        url('../fonts/SourceHanSerifCN-regular-1.woff2') format('woff2'),
+        url('../fonts/SourceHanSerifCN-regular-1.woff') format('woff'),   
+        url('../fonts/SourceHanSerifCN-Regular-1.otf') format('opentype');
 }
 
 @font-face {
   font-family: 'Source Han Serif CN Bold';
   src: local('Source Han Serif CN Bold'),
-       url('../fonts/SourceHanSerifCN-Bold-2.otf') format('opentype');
+        url('../fonts/SourceHanSerifCN-bold-2.woff2') format('woff2'),
+        url('../fonts/SourceHanSerifCN-bold-2.woff') format('woff'),
+        url('../fonts/SourceHanSerifCN-Bold-2.otf') format('opentype');
 }
 
 @font-face {
@@ -25,23 +32,31 @@
 @font-face {
   font-family: 'Source Han Serif CN Heavy';
   src: local('Source Han Serif CN Heavy'),
-       url('../fonts/SourceHanSerifCN-Heavy-4.otf') format('opentype');
+        url('../fonts/SourceHanSerifCN-heavy-4.woff2') format('woff2'),
+        url('../fonts/SourceHanSerifCN-heavy-4.woff') format('woff'),
+        url('../fonts/SourceHanSerifCN-Heavy-4.otf') format('opentype');
 }
 
 @font-face {
   font-family: 'Source Han Serif CN Light';
   src: local('Source Han Serif CN Light'),
-       url('../fonts/SourceHanSerifCN-Light-5.otf') format('opentype');
+        url('../fonts/SourceHanSerifCN-extralight-3.woff2') format('woff2'),
+        url('../fonts/SourceHanSerifCN-extralight-3.woff') format('woff'),
+        url('../fonts/SourceHanSerifCN-Light-5.otf') format('opentype');
 }
 
 @font-face {
   font-family: 'Source Han Serif CN Medium';
   src: local('Source Han Serif CN Medium'),
-       url('../fonts/SourceHanSerifCN-Medium-6.otf') format('opentype');
+        url('../fonts/SourceHanSerifCN-medium-6.woff2') format('woff2'),
+        url('../fonts/SourceHanSerifCN-medium-6.woff') format('woff'),
+        url('../fonts/SourceHanSerifCN-Medium-6.otf') format('opentype');
 }
 
 @font-face {
   font-family: 'Source Han Serif CN SemiBold';
   src: local('Source Han Serif CN SemiBold'),
-       url('../fonts/SourceHanSerifCN-SemiBold-7.otf') format('opentype');
+        url('../fonts/SourceHanSerifCN-semibold-7.woff2') format('woff2'),
+        url('../fonts/SourceHanSerifCN-semibold-7.woff') format('woff'),
+        url('../fonts/SourceHanSerifCN-SemiBold-7.otf') format('opentype');
 }
