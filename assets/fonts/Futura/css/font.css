@@ -1,36 +1,35 @@
 font-face {
     font-family: 'Futura';
-    src: url('../fonts/futura-book-2.woff2') format('woff2'),
-         url('../fonts/futura-book-2.woff') format('woff'),
-         url('../fonts/Futura-Book-2.ttf') format('truetype');
+    src: url('../fonts/Futura_book.woff2') format('woff2'),
+         url('../fonts/Futura_book.woff') format('woff'),
+         url('../fonts/Futura\ Book.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 font-face {
     font-family: 'Futura Light';
-    src: url('../fonts/Futura-Light-3.ttf') format('truetype');
+    src: url('../fonts/Futura_light.woff2') format('woff2'),
+         url('../fonts/Futura_light.woff') format('woff'),
+         url('../fonts/Futura\ Light.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 font-face {
     font-family: 'Futura Heavy';
-    src: url('../fonts/Futura-Heavy-4.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-font-face {
-    font-family: 'Futura Bold';
-    src: url('../fonts/Futura-Bold-5.ttf') format('truetype');
+    src: url('../fonts/Futura_heavy.woff2') format('woff2'),
+         url('../fonts/Futura_heavy.woff') format('woff'),
+         url('../fonts/Futura\ Heavy.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 font-face {
     font-family: 'Futura Medium';
-    src: url('../fonts/Futura-Medium-6.ttf') format('truetype');
+    src: url('../fonts/Futura_medium.woff2') format('woff2'),
+         url('../fonts/Futura_medium.woff') format('woff'),
+         url('../fonts/Futura\ Medium.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
