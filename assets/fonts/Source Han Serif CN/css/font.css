@@ -1,47 +1,47 @@
 @font-face {
   font-family: 'Source Han Serif CN';
   src: local('Source Han Serif CN Regular'),
-       url('../fonts/SourceHanSerifCN-Regular-1.otf') format('opentype');
+       url('../fonts/SourceHanSerif-Regular.ttc') format('truetype');
 }
 
 @font-face {
   font-family: 'Source Han Serif CN Regular';
   src: local('Source Han Serif CN Regular'),
-       url('../fonts/SourceHanSerifCN-Regular-1.otf') format('opentype');
+       url('../fonts/SourceHanSerif-Regular.ttc') format('truetype');
 }
 
 @font-face {
   font-family: 'Source Han Serif CN Bold';
   src: local('Source Han Serif CN Bold'),
-       url('../fonts/SourceHanSerifCN-Bold-2.otf') format('opentype');
+       url('../fonts/SourceHanSerif-Bold.ttc') format('truetype');
 }
 
 @font-face {
   font-family: 'Source Han Serif CN ExtraLight';
   src: local('Source Han Serif CN ExtraLight'),
-       url('../fonts/SourceHanSerifCN-ExtraLight-3.otf') format('opentype');
+       url('../fonts/SourceHanSerif-ExtraLight.ttc') format('truetype');
 }
 
 @font-face {
   font-family: 'Source Han Serif CN Heavy';
   src: local('Source Han Serif CN Heavy'),
-       url('../fonts/SourceHanSerifCN-Heavy-4.otf') format('opentype');
+       url('../fonts/SourceHanSerif-Heavy.ttc') format('truetype');
 }
 
 @font-face {
   font-family: 'Source Han Serif CN Light';
   src: local('Source Han Serif CN Light'),
-       url('../fonts/SourceHanSerifCN-Light-5.otf') format('opentype');
+       url('../fonts/SourceHanSerif-Light.ttc') format('truetype');
 }
 
 @font-face {
   font-family: 'Source Han Serif CN Medium';
   src: local('Source Han Serif CN Medium'),
-       url('../fonts/SourceHanSerifCN-Medium-6.otf') format('opentype');
+       url('../fonts/SourceHanSerif-Medium.ttc') format('truetype');
 }
 
 @font-face {
   font-family: 'Source Han Serif CN SemiBold';
   src: local('Source Han Serif CN SemiBold'),
-       url('../fonts/SourceHanSerifCN-SemiBold-7.otf') format('opentype');
+       url('../fonts/SourceHanSerif-SemiBold.ttc') format('truetype');
 }
