@@ -3,8 +3,7 @@
   src: local('Source Han Serif CN Regular'),
         url('../fonts/SourceHanSerifCN-regular-1.woff2') format('woff2'),
         url('../fonts/SourceHanSerifCN-regular-1.woff') format('woff'),   
-        url('../fonts/SourceHanSerifCN-Regular-1.otf') format('opentype');
-       
+        url('../fonts/SourceHanSerifCN-Regular-1.otf') format('opentype');      
 }
 
 @font-face {
