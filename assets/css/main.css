@@ -3870,7 +3870,7 @@ template {
 }
 
 body {
-  font-family: "Futura", "Source Han Serif CN", sans-serif;
+  font-family: "Futura Bk", "Source Han Serif CN", sans-serif;
   font-weight: lighter;
   -webkit-font-smoothing: antialiased;
   background-color: #262626;
@@ -4092,7 +4092,7 @@ cite {
 }
 
 .chapters .chapter_inner .chapter_title {
-  font-family: "Futura","Source Han Sans";
+  font-family: "Futura Bk","Source Han Sans";
   font-weight: bold;
   font-size: 1.5rem;
   font-weight: 400;
@@ -4497,7 +4497,7 @@ cite {
 }
 
 .recent_box .recent_list .recent_item span {
-  font-family: "Futura", sans-serif;
+  font-family: "Futura Bk", sans-serif;
   font-weight: normal;
   text-shadow: 3px 3px 15px rgba(0, 0, 0, 0.8);
   position: absolute;
