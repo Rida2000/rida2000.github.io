@@ -1,2 +1,1 @@
-bundle exec jekyll serve
-# --watch --host=0.0.0.0
+bundle exec jekyll serve --livereload --watch --host 0.0.0.0
