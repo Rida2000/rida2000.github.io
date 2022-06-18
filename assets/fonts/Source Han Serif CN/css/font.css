@@ -1,5 +1,11 @@
 @font-face {
   font-family: 'Source Han Serif CN';
+  src:
+    url('../fonts/SourceHanSerifCN-VF.otf.woff2') format('woff2');
+}
+
+/* @font-face {
+  font-family: 'Source Han Serif CN';
   src: local('Source Han Serif CN Regular'),
         url('../fonts/SourceHanSerifCN-regular-1.woff2') format('woff2'),
         url('../fonts/SourceHanSerifCN-regular-1.woff') format('woff'),   
@@ -58,4 +64,4 @@
         url('../fonts/SourceHanSerifCN-semibold-7.woff2') format('woff2'),
         url('../fonts/SourceHanSerifCN-semibold-7.woff') format('woff'),
         url('../fonts/SourceHanSerifCN-SemiBold-7.otf') format('opentype');
-}
+} */

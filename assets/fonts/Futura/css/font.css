@@ -1,4 +1,4 @@
-font-face {
+@font-face {
     font-family: 'Futura Bk';
     src: url('../fonts/Futura_book.woff2') format('woff2'),
          url('../fonts/Futura_book.woff') format('woff'),
@@ -7,7 +7,7 @@ font-face {
     font-style: normal;
 }
 
-font-face {
+@font-face {
     font-family: 'Futura Light';
     src: url('../fonts/Futura_light.woff2') format('woff2'),
          url('../fonts/Futura_light.woff') format('woff'),
@@ -16,7 +16,7 @@ font-face {
     font-style: normal;
 }
 
-font-face {
+@font-face {
     font-family: 'Futura Heavy';
     src: url('../fonts/Futura_heavy.woff2') format('woff2'),
          url('../fonts/Futura_heavy.woff') format('woff'),
@@ -25,7 +25,7 @@ font-face {
     font-style: normal;
 }
 
-font-face {
+@font-face {
     font-family: 'Futura Medium';
     src: url('../fonts/Futura_medium.woff2') format('woff2'),
          url('../fonts/Futura_medium.woff') format('woff'),
